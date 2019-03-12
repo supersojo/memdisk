@@ -1,2 +1,4 @@
 # memdisk
-use a memory to simulate block device, learn how block deivce work
+
+o 把部分内存模拟为块设备的内核模块驱动
+
